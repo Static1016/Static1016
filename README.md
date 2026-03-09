@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Yash Mhaparle.
 
-<!--
-**Static1016/Static1016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer and ML engineering learner focused on building scalable backend systems and data pipelines.
 
-Here are some ideas to get you started:
+Tech Stack
+Node.js
+Python
+FastAPI
+PostgreSQL
+Docker
+Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+Trackademy – Academic management backend system
+URL Shortener – FastAPI + Docker service
+Housing Data Pipeline – Data cleaning and preprocessing
+Skill Gap Analyzer – Skill analysis tool
+
+Currently learning
+ML Engineering
+System design
+Distributed backend systems
