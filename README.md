@@ -2,8 +2,6 @@
 
 I'm interested in technology, technical troubleshooting, and building reliable software systems. I enjoy investigating problems, understanding how systems work, and developing practical solutions through code.
 
-Currently working as a Customer Support Executive at eClerx, while continuing to develop my technical skills in IT support, backend development, and system administration.
-
 ## Technical Skills
 
 - **Languages:** Python, JavaScript, SQL
