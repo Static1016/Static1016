@@ -1,17 +1,35 @@
-Hi, I'm Yash Mhaparle.
+# Hi, I'm Yash Mhaparle
 
-Backend developer and ML engineering learner focused on building scalable backend systems and data pipelines.
+I'm interested in technology, technical troubleshooting, and building reliable software systems. I enjoy investigating problems, understanding how systems work, and developing practical solutions through code.
 
-Tech Stack
-Node.js • Python • FastAPI • PostgreSQL • Docker • Machine Learning
+Currently working as a Customer Support Executive at eClerx, while continuing to develop my technical skills in IT support, backend development, and system administration.
 
-Projects
-Trackademy — Academic management backend system  
-URL Shortener — FastAPI + Docker backend service  
-Housing Data Pipeline — Data cleaning and preprocessing  
-Skill Gap Analyzer — Skill analysis tool
+## Technical Skills
 
-Currently Learning
-ML Engineering  
-System Design  
-Distributed Backend Systems
+- **Languages:** Python, JavaScript, SQL
+- **Backend Development:** FastAPI, Django, REST APIs
+- **Databases:** PostgreSQL, MySQL
+- **Tools & Platforms:** Git, GitHub, Docker, Linux
+- **Areas of Interest:** Technical Troubleshooting, Networking Fundamentals, System Administration, Backend Systems
+
+## Projects
+
+- **Trackademy** — Role-based academic management system.
+- **URL Shortener** — Backend service built with FastAPI and Docker.
+- **Housing Data Pipeline** — Data cleaning and preprocessing pipeline.
+- **Skill Gap Analyzer** — Tool for analyzing skills and identifying skill gaps.
+
+## Currently Learning
+
+- Linux and system administration
+- Networking and troubleshooting fundamentals
+- IT support and infrastructure concepts
+- Backend architecture and system design
+
+## Beyond Technology
+
+Outside of coding and learning, I enjoy gaming, exploring new technologies, and taking on challenges that help me develop new skills.
+
+---
+
+Always learning, always building, and always looking for better ways to solve problems.
